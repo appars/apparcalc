@@ -1,4 +1,4 @@
-#THis si calc program tested in bug345branch
+#I am fixnfing bug1233 for merge conflict testing in VM
 sum=0
 echo " Enter one no."
 read n1
