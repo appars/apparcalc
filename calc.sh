@@ -1,4 +1,4 @@
-#THis si calc program tested in bug345branch
+#This is to demo merge conflict - dev1 merged changes fron browser
 sum=0
 echo " Enter one no."
 read n1
