@@ -1,3 +1,6 @@
+#bug 345 fixing is in progress....
+#finding the pending task on bug 345
+
 #THis si calc program tested in bug345branch
 sum=0
 echo " Enter one no."
