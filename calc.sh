@@ -1,4 +1,5 @@
 #I am fixnfing bug1233 for merge conflict testing in VM
+#test after user change
 sum=0
 echo " Enter one no."
 read n1
